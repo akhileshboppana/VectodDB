@@ -40,7 +40,7 @@ To set up the project, follow these steps:
 ### Install Dependencies
 
 1. Clone the repository:
-2. Install necessary python dependencies
+2. Install necessary python dependencies i.e, pymilvus, milvus, sentence transformers
 
 ## Usage
 ### Generating Embeddings
